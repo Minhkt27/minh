@@ -13,6 +13,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("i = " + i);
             System.out.println("A1");
+            System.out.println("dev 1 commit");
         }
     }
 }
